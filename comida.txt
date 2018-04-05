@@ -4,3 +4,10 @@ ingrediente
 pan 
 jamon
 queso
+
+
+preparacion
+
+cortar el pan al medio
+agregar una feta de jamon
+y una feta de queso
